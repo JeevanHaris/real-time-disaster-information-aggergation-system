@@ -1,0 +1,72 @@
+2025-09-20 00:05:42,003 - __main__ - ERROR - Cleanup error: 'DatabaseManager' object has no attribute 'cleanup_old_data'
+2025-09-20 00:05:42,004 - __main__ - INFO - Background tasks started successfully
+2025-09-20 00:05:42,009 - __main__ - INFO - Starting Tamil Nadu Disaster Aggregation System v2.0
+2025-09-20 00:05:42,010 - __main__ - INFO - Using free APIs: Reddit, RSS Feeds, NewsAPI (optional)
+2025-09-20 00:05:46,939 - __main__ - INFO - Fetched 10 incidents from Reddit
+2025-09-20 00:05:46,939 - __main__ - INFO - Fetched 0 incidents from NewsAPI
+2025-09-20 00:05:47,221 - __main__ - INFO - Fetched 10 incidents from Reddit
+2025-09-20 00:05:47,222 - __main__ - INFO - Fetched 0 incidents from NewsAPI
+2025-09-20 00:05:48,510 - __main__ - INFO - Fetched 0 incidents from RSS feeds
+2025-09-20 00:05:48,511 - __main__ - INFO - Initialized with 7 demo incidents
+2025-09-20 00:05:48,542 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.205.5.159:5000
+2025-09-20 00:05:48,542 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-09-20 00:05:48,544 - werkzeug - INFO -  * Restarting with stat
+2025-09-20 00:05:48,627 - __main__ - INFO - Fetched 0 incidents from RSS feeds
+2025-09-20 00:05:48,627 - __main__ - INFO - Updated 7 incidents for Chennai
+2025-09-20 00:05:48,932 - __main__ - ERROR - Cleanup error: 'DatabaseManager' object has no attribute 'cleanup_old_data'
+2025-09-20 00:05:48,932 - __main__ - INFO - Background tasks started successfully
+2025-09-20 00:05:48,934 - __main__ - INFO - Starting Tamil Nadu Disaster Aggregation System v2.0
+2025-09-20 00:05:48,934 - __main__ - INFO - Using free APIs: Reddit, RSS Feeds, NewsAPI (optional)
+2025-09-20 00:05:53,798 - __main__ - INFO - Fetched 10 incidents from Reddit
+2025-09-20 00:05:53,798 - __main__ - INFO - Fetched 0 incidents from NewsAPI
+2025-09-20 00:05:54,607 - __main__ - INFO - Fetched 10 incidents from Reddit
+2025-09-20 00:05:54,608 - __main__ - INFO - Fetched 0 incidents from NewsAPI
+2025-09-20 00:05:55,467 - __main__ - INFO - Fetched 10 incidents from Reddit
+2025-09-20 00:05:55,468 - __main__ - INFO - Fetched 0 incidents from NewsAPI
+2025-09-20 00:05:55,470 - __main__ - INFO - Fetched 0 incidents from RSS feeds
+2025-09-20 00:05:55,471 - __main__ - INFO - Updated 7 incidents for Chennai
+2025-09-20 00:05:55,827 - __main__ - INFO - Fetched 0 incidents from RSS feeds
+2025-09-20 00:05:55,828 - __main__ - INFO - Initialized with 7 demo incidents
+2025-09-20 00:05:55,847 - werkzeug - WARNING -  * Debugger is active!
+2025-09-20 00:05:55,851 - werkzeug - INFO -  * Debugger PIN: 308-408-299
+2025-09-20 00:05:56,996 - __main__ - INFO - Fetched 0 incidents from RSS feeds
+2025-09-20 00:05:56,997 - __main__ - INFO - Updated 7 incidents for Coimbatore
+2025-09-20 00:06:01,716 - __main__ - INFO - Fetched 10 incidents from Reddit
+2025-09-20 00:06:01,716 - __main__ - INFO - Fetched 0 incidents from NewsAPI
+2025-09-20 00:06:02,966 - __main__ - INFO - Fetched 10 incidents from Reddit
+2025-09-20 00:06:02,967 - __main__ - INFO - Fetched 0 incidents from NewsAPI
+2025-09-20 00:06:03,200 - __main__ - INFO - Fetched 0 incidents from RSS feeds
+2025-09-20 00:06:03,202 - __main__ - INFO - Updated 7 incidents for Coimbatore
+2025-09-20 00:06:04,471 - __main__ - INFO - Fetched 0 incidents from RSS feeds
+2025-09-20 00:06:04,472 - __main__ - INFO - Updated 7 incidents for Madurai
+2025-09-20 00:06:11,133 - __main__ - INFO - Fetched 10 incidents from Reddit
+2025-09-20 00:06:11,134 - __main__ - INFO - Fetched 0 incidents from NewsAPI
+2025-09-20 00:06:12,910 - __main__ - INFO - Fetched 0 incidents from RSS feeds
+2025-09-20 00:06:12,912 - __main__ - INFO - Updated 7 incidents for Madurai
+2025-09-20 00:11:11,258 - __main__ - INFO - Fetched 10 incidents from Reddit
+2025-09-20 00:11:11,258 - __main__ - INFO - Fetched 0 incidents from NewsAPI
+2025-09-20 00:11:13,343 - __main__ - INFO - Fetched 0 incidents from RSS feeds
+2025-09-20 00:11:13,346 - __main__ - INFO - Updated 7 incidents for Chennai
+2025-09-20 00:11:19,600 - __main__ - INFO - Fetched 10 incidents from Reddit
+2025-09-20 00:11:19,601 - __main__ - INFO - Fetched 0 incidents from NewsAPI
+2025-09-20 00:11:20,349 - __main__ - INFO - Fetched 10 incidents from Reddit
+2025-09-20 00:11:20,349 - __main__ - INFO - Fetched 0 incidents from NewsAPI
+2025-09-20 00:11:21,226 - __main__ - INFO - Fetched 0 incidents from RSS feeds
+2025-09-20 00:11:21,228 - __main__ - INFO - Updated 7 incidents for Chennai
+2025-09-20 00:11:22,024 - __main__ - INFO - Fetched 0 incidents from RSS feeds
+2025-09-20 00:11:22,026 - __main__ - INFO - Updated 7 incidents for Coimbatore
+2025-09-20 00:11:27,558 - __main__ - INFO - Fetched 10 incidents from Reddit
+2025-09-20 00:11:27,559 - __main__ - INFO - Fetched 0 incidents from NewsAPI
+2025-09-20 00:11:28,452 - __main__ - INFO - Fetched 10 incidents from Reddit
+2025-09-20 00:11:28,452 - __main__ - INFO - Fetched 0 incidents from NewsAPI
+2025-09-20 00:11:29,064 - __main__ - INFO - Fetched 0 incidents from RSS feeds
+2025-09-20 00:11:29,066 - __main__ - INFO - Updated 7 incidents for Coimbatore
+2025-09-20 00:11:30,136 - __main__ - INFO - Fetched 0 incidents from RSS feeds
+2025-09-20 00:11:30,137 - __main__ - INFO - Updated 7 incidents for Madurai
+2025-09-20 00:11:35,869 - __main__ - INFO - Fetched 10 incidents from Reddit
+2025-09-20 00:11:35,869 - __main__ - INFO - Fetched 0 incidents from NewsAPI
+2025-09-20 00:11:38,857 - __main__ - INFO - Fetched 0 incidents from RSS feeds
+2025-09-20 00:11:38,859 - __main__ - INFO - Updated 7 incidents for Madurai
